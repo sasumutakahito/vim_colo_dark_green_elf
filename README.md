@@ -10,15 +10,19 @@ VIM COLORSCHEME DARK GREEN ELF
 
 VIM THEME DESIGNED FOR PUTTY & SCREEN COMBINATION
 
+
+
 VIM THEME:   DARK GREEN ELF
+
 LAST EDIT:   MMXVIII
+
 DESIGNED BY: HUMAN@LEVI.MOON
 
 ## INSTALL:
 
 1) Get the source
 
-git clone https://github.com/sasumutakahito/vim_colo_dark_green_elf.git
+`git clone https://github.com/sasumutakahito/vim_colo_dark_green_elf.git`
 
 2) Put in Your ~/.bashrc
 
