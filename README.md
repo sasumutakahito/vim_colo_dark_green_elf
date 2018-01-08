@@ -4,7 +4,7 @@ VIM COLORSCHEME DARK GREEN ELF
 
 ## PREVIEW
 
-![DARK GREEN ELF PREVIEW](http://github.com/sasumutakahito/vim_colo_dark_green_elf/dark_green_elf.gif)
+![DARK GREEN ELF PREVIEW](http://raw.githubusercontent.com/sasumutakahito/vim_colo_dark_green_elf/master/dark_green_elf.gi)
 
 ## WHAT IS THIS?
 
