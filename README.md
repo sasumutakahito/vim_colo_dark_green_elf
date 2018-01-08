@@ -1,6 +1,6 @@
 # vim_colo_dark_green_elf
-VIM COLORSCHEME DARK GREEN ELF
 
+VIM COLORSCHEME DARK GREEN ELF
 
 ## PREVIEW
 
@@ -14,16 +14,30 @@ VIM THEME:   DARK GREEN ELF
 LAST EDIT:   MMXVIII
 DESIGNED BY: HUMAN@LEVI.MOON
 
-INSTALL:
+## INSTALL:
 
-1) Put in Your ~/.bashrc
+1) Get the source
 
-export TERM=xterm-256color
-export TERMCAP=
+git clone https://github.com/sasumutakahito/vim_colo_dark_green_elf.git
 
-2) Put file elf.vim in Your ~/.vim/colors
+2) Put in Your ~/.bashrc
 
-3) Put in Your ~/.screenrc:
+`export TERM=xterm-256color`
+`export TERMCAP=`
 
-term screen-256color
+3) Put file elf.vim in Your ~/.vim/colors
+
+4) Put in Your ~/.screenrc:
+
+`term screen-256color`
+
+5) Put in Your ~/.vimrc 
+
+`colo elf`
+
+   or test using
+
+`colo elf`
+
+   during editing
 
