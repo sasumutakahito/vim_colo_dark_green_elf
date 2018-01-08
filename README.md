@@ -6,6 +6,8 @@ VIM COLORSCHEME DARK GREEN ELF
 
 ![DARK GREEN ELF PREVIEW](https://sasumutakahito.github.io/vim_colo_dark_green_elf/dark_green_elf.gif)
 
+![DARK GREEN ELF PREVIEW](https://sasumutakahito.github.io/vim_colo_dark_green_elf/dark_green_elf_002.gif)
+
 ## WHAT IS THIS?
 
 VIM THEME DESIGNED FOR PUTTY & SCREEN COMBINATION
