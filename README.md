@@ -29,6 +29,7 @@ DESIGNED BY: HUMAN@LEVI.MOON
 2) Put in Your ~/.bashrc
 
 `export TERM=xterm-256color`
+
 `export TERMCAP=`
 
 3) Put file elf.vim in Your ~/.vim/colors
