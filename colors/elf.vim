@@ -25,22 +25,22 @@ if exists("syntax_on")
 endif
 let g:colors_name = "elf"
 set cursorline
-hi Normal	      ctermfg=080  ctermbg=Black
-hi Comment	      ctermfg=075  ctermbg=Black
-hi Constant	      ctermfg=080  ctermbg=Black
-hi Special	      ctermfg=079  ctermbg=Black
-hi Identifier     ctermfg=073  ctermbg=Black
-hi Statement      ctermfg=159  ctermbg=Black
-hi PreProc	      ctermfg=078  ctermbg=Black
-hi Type	          ctermfg=073  ctermbg=Black
-hi Function	      ctermfg=086  ctermbg=Black
-hi Repeat	      ctermfg=085  ctermbg=Black
-hi Operator		  ctermfg=084  ctermbg=Black
-hi Ignore		  ctermfg=086  ctermbg=Black
-hi LineNr         ctermfg=241  ctermbg=Black
-hi Error	      ctermfg=068  ctermbg=Black
-hi Todo	          ctermfg=080  ctermbg=Black
-hi CursorLine     ctermfg=NONE ctermbg=238
+hi Normal      ctermfg=080  ctermbg=Black guifg=#5fd7d7 guibg=Black
+hi Comment     ctermfg=075  ctermbg=Black guifg=#5fafff guibg=Black
+hi Constant    ctermfg=080  ctermbg=Black guifg=#5fd7d7 guibg=Black
+hi Special     ctermfg=079  ctermbg=Black guifg=#5fd7af guibg=Black
+hi Identifier  ctermfg=073  ctermbg=Black guifg=#5fafaf guibg=Black
+hi Statement   ctermfg=159  ctermbg=Black guifg=#afffff guibg=Black
+hi PreProc     ctermfg=078  ctermbg=Black guifg=#5fd787 guibg=Black
+hi Type	       ctermfg=073  ctermbg=Black guifg=#5fafaf guibg=Black 
+hi Function    ctermfg=086  ctermbg=Black guifg=#5fffd7 guibg=Black
+hi Repeat      ctermfg=085  ctermbg=Black guifg=#5fffaf guibg=Black
+hi Operator    ctermfg=084  ctermbg=Black guifg=#5fff87 guibg=Black
+hi Ignore      ctermfg=086  ctermbg=Black guifg=#5fffd7 guibg=Black
+hi LineNr      ctermfg=241  ctermbg=Black guifg=#626262 guibg=Black
+hi Error       ctermfg=068  ctermbg=Black guifg=#5f87d7 guibg=Black
+hi Todo        ctermfg=080  ctermbg=Black guifg=#5fd7d7 guibg=Black
+hi CursorLine  ctermfg=NONE ctermbg=238   guibg=#444444
 " Common groups that link to default highlighting.
 " You can specify other highlighting easily.
 hi link String           Constant
