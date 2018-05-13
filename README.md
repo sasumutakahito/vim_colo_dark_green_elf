@@ -57,3 +57,16 @@ DESIGNED BY: HUMAN@LEVI.MOON
 
    during editing
 
+7) if above doesn't work on fresh systems use:
+
+  a) CENTOS 
+    
+`yum -y install vim-minimal`
+
+  b) UBUNTU
+
+`apt -y install vim`
+
+8) if still not then put in Your ~/.bashrc
+
+`alias vi=vim`
