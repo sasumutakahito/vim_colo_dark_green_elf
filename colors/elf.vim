@@ -23,28 +23,26 @@ hi clear
 if exists("syntax_on")
   syntax reset
 endif
-let g:colors_name = "elf"
+let g:colors_name="elf"
 set cursorline
-hi Normal	      ctermfg=080  ctermbg=Black
-hi Comment	      ctermfg=075  ctermbg=Black
-hi Constant	      ctermfg=080  ctermbg=Black
-hi Special	      ctermfg=079  ctermbg=Black
+hi Normal         ctermfg=080  ctermbg=Black
+hi Comment        ctermfg=075  ctermbg=Black
+hi Constant       ctermfg=080  ctermbg=Black
+hi Special        ctermfg=079  ctermbg=Black
 hi Identifier     ctermfg=073  ctermbg=Black
 hi Statement      ctermfg=159  ctermbg=Black
-hi PreProc	      ctermfg=078  ctermbg=Black
-hi Type	          ctermfg=073  ctermbg=Black
-hi Function	      ctermfg=086  ctermbg=Black
-hi Repeat	      ctermfg=085  ctermbg=Black
-hi Operator		  ctermfg=084  ctermbg=Black
-hi Ignore		  ctermfg=086  ctermbg=Black
+hi PreProc        ctermfg=078  ctermbg=Black
+hi Type           ctermfg=073  ctermbg=Black
+hi Function       ctermfg=086  ctermbg=Black
+hi Repeat         ctermfg=085  ctermbg=Black
+hi Operator       ctermfg=084  ctermbg=Black
+hi Ignore         ctermfg=086  ctermbg=Black
 hi LineNr         ctermfg=241  ctermbg=Black
-hi Error	      ctermfg=068  ctermbg=Black
-hi Todo	          ctermfg=080  ctermbg=Black
+hi Error          ctermfg=068  ctermbg=Black
+hi Todo           ctermfg=080  ctermbg=Black
 hi CursorLine     ctermfg=NONE ctermbg=238
-hi Visual         ctermfg=239 ctermbg=234
-hi Search         ctermfg=239 ctermbg=234
-" Common groups that link to default highlighting.
-" You can specify other highlighting easily.
+hi Visual         ctermfg=239  ctermbg=234
+hi Search         ctermfg=239  ctermbg=234
 hi link String           Constant
 hi link Character        Constant
 hi link Number           Constant
