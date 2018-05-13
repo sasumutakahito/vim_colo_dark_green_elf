@@ -4,9 +4,18 @@ VIM COLORSCHEME DARK GREEN ELF
 
 ## PREVIEW
 
+SCREENSHOT #1 : README FILE
+
 ![DARK GREEN ELF PREVIEW](https://sasumutakahito.github.io/vim_colo_dark_green_elf/dark_green_elf.gif)
 
+SCREENSHOT #2 : C FILE
+
 ![DARK GREEN ELF PREVIEW](https://sasumutakahito.github.io/vim_colo_dark_green_elf/dark_green_elf_002.gif)
+
+SCREENSHOT #3 : SELECTION HAVING THE SHADOW
+
+![DARK GREEN ELF PREVIEW](https://sasumutakahito.github.io/vim_colo_dark_green_elf/dark_green_elf_003.gif)
+
 
 ## WHAT IS THIS?
 
