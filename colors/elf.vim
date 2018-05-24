@@ -41,8 +41,8 @@ hi LineNr      ctermfg=241  ctermbg=Black guifg=#626262 guibg=Black
 hi Error       ctermfg=068  ctermbg=Black guifg=#5f87d7 guibg=Black
 hi Todo        ctermfg=080  ctermbg=Black guifg=#5fd7d7 guibg=Black
 hi CursorLine  ctermfg=NONE ctermbg=238   guibg=#444444
-hi Visual      ctermfg=239  ctermbg=234   guifg=#aeaeae guibg=#1c1c1c 
-hi Search      ctermfg=239  ctermbg=234   guifg=#9e9e9e guibg=#1c1c1c
+hi Visual      ctermfg=239  ctermbg=235   guifg=#aeaeae guibg=#AAAAAA 
+hi Search      ctermfg=239  ctermbg=234   guifg=#9e9e9e guibg=#AAAAAA
 hi link String           Constant
 hi link Character        Constant
 hi link Number           Constant
